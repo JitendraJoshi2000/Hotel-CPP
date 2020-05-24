@@ -1,0 +1,230 @@
+#Tea & Coffee
+101.Tea   40/-
+102.Coffee Mocachino   51/-
+103.Coffee Americano (Black)   55/-
+104.Coffee Espresso   60/-
+105.Ice Tea (Lemon)   51/-
+106.Coffee Cappuccino   51/-
+107.Espresso (Black)   55/-
+108.Cold-Coffee (Frappe)   70/-
+
+#Beverages
+*Areated Beverages
+201.Cola/Orange/Lemon   55/-
+202.Diet Pepsi   55/-
+203.Fresh Lime Soda Sweet/Salt   60/-
+204.Mineral Water   55/-
+205.Fresh lime Water Sweet/Salt   60/-
+*Fresh Juices
+206.Fresh Juices Seasonal/Mix   160/-
+*Smoothies & Mocktails
+207.Fruit Punch   150/-
+208.Red Sea   150/-
+209.Virgin Colada   150/-
+210.Love Valley   150/-
+211.Pomi Twist   150/-
+212.Ginger Fizz   150/-
+213.Italian Smooch   150/-
+214.Devils Kiss   150/-
+215.Blue Lagoon   150/-
+216.Fresh Mint Mojito   150/-
+217.Kiwi Smoothie   150/-
+218.Virgin Guava   150/-
+219.Litchi Smoothie   150/-
+220.Peach Apricot   150/-
+221.Blue Berry Smoothie   150/-
+222.Green Hayland   150/-
+223.White Rosy   150/-
+224.Watermelon Mojito   150/-
+*Ice Cream Sodas
+225.Lime Ice/Orange   119/-
+226.Golden Glow/Strawberry   119/-
+
+# Fast  Food
+*All Time Favourite
+301.French Fries   106/-
+302.Chilli Cheese Toast   115/-
+303.Chilli Cheese Gralic Toast   115/-
+304.Garlic Bread   98/-
+305.Garlic Bread with Cheese   119/-
+*Sandvich
+306.Plain Sandwich   175/-
+307.Grilled Sandwich   175/-
+308.Club Sandwich   175/-
+*Salads
+309.Russian Salad/Maccroni   119/-
+*Burgers
+310.Veg. Burger   72/-
+*Bakes & Meals (Served with 3Pcs. of Garlic Bread)
+311.Maccroni Hotpot   205/-
+312.Veg. Augratin   205/-
+* Pasta
+313.Pasta Spicy Tomato/Classical Cheese   190/-
+314.Pasta in Twin Sauce   190/-
+*Pizza's
+315.Plain Cheese Pizza   190/-
+316.Capsicum, Onion Pizza   210/-
+317.Tomato, Onion Pizza   210/-
+318.Capsicum, Onion, Mashroom Pizza   250/-
+319.Jain Spl. Pizza   250/-
+320.Tandoori Pizza   250/-
+321.Super Veggie Pizza(Double Cheese)   265/-
+*Extra Toppings
+322.Cheese   55/-
+*Hearth Stone Special
+323.Lasanana Roll   133/-
+324.Paneer Salsa Wrap   133/-
+325.Lebenense Fala Fel   133/-
+*Noodles
+326.Veg Hakka Noodles   145/-
+327.Chilli Garlic Noodles   145/-
+328.Pan Fried Noodles   225/-
+329.Gravy Noodles   225/-
+*Pav Bhaji
+330.Pav Bhaji   140/-
+331.Jain Pav Bhaji   155/-
+332.Bombay Vada Pav   102/-
+333.Extra Pav   35/-
+*Chats
+334.Dahi Bhalla/Dahi Papri   90/-
+335.Dahi Bhalla Papri   90/-
+336.Gol Gappa (6 pcs.)   68/-
+337.Gol Gappa Water Extra For Packing   25/-
+
+#South-Indian
+401.Rice Idli   81/-
+402.Sambhar Vada   85/-
+403.Dahi Vada   81/-
+*Dosas
+404.Dosa (Butter)   125/-
+405.Onion Dosa (Butter)   136/-
+406.Paper Dosa   130/-
+407.Mysore Dosa   123/-
+408.Rawa Dosa   119/-
+409.Onion Rawa Dosa   136/-
+410.Masala Dosa (Butter)   145/-
+411.Masala Onion Dosa (Butter)   156/-
+412.Masala Paper Dosa   150/-
+413.Masala Myscore Dosa   143/-
+414.Masala Rawa Dosa   156/-
+415.Masala Onion Rawa Dosa   171/-
+*Uttapam
+416.Onion Uttapam   155/-
+417.Tomato Uttapam   155/-
+418.Mix Veg Uttapam   155/-
+*Rice
+419.Sambhar Rice   132/-
+420.Curd Rice   132/-
+*Extra
+421.Sambhar   35/-
+422.Chutney   15/-
+
+#Starters
+501.Tandoori Paneer Tikka   220/-
+502.Malai Paneer Tikka   220/-
+503.Soya Tandoori Tikka   175/-
+504.Tandoori Aloo   179/-
+505.Punjabi Soya Chap   179/-
+506.Hare-Bhare Kabab   162/-
+507.Dahi ke Kabab   179/-
+508.Platter   325/-
+*Starters
+509.Spring Roll   145/-
+510.Chilly Paneer Dry   195/-
+511.Veg. Manchurian Dry   153/-
+512.Potatoes in Honey & Chilly   175/-
+513.Fried Vegetables in Salt & Papper   190/-
+514.Crispy Spinach & Baby - Corn   198/-
+515.Chilly Mushroom Dry   193/-
+*Soups
+516.Tomato Soup   89/-
+517.Lemon & Coriander   109/-
+518.Veg. Noodle Soup   109/-
+519.Sweet Corn   109/-
+520.Veg. Munchow   109/-
+521.Veg. Clear Soup   109/-
+
+#Main Course
+601.Veg Chopsouey   195/-
+602.Chilly Paneer Gravy   205/-
+603.Manchurian Gravy   175/-
+604.Sweet & Sour Veg.   175/-
+605.Mix. Veg. in Hot Garlic Sauce   185/-
+606.Shreded Potatoes in Hot Garlic Sauce   153/-
+*Subziyan
+607.Shahi Paneer   210/-
+608.Kadhai Paneer   210/-
+609.Paneer Butter Masala   210/-
+610.Mushroom Masala   215/-
+611.Malai Kofta   210/-
+*Rice
+612.Veg. Fried Rice   165/-
+613.Chilly Garlic Rice   165/-
+*Dals
+614.Dal Makhani   192/-
+615.Yellow Dal   141/-
+616.Rajma   141/-
+617.Chole   141/-
+*Breads
+618.Tandoori Roti   30/-
+619.Roomali Roti   17/-
+620.Butter Roti   36/-
+621.Plain Naan   43/-
+622.Butter Naan   58/-
+623.Garlic Naan Butter   60/-
+624.Tawa Parantha   53/-
+625.Laccha Parantha   53/-
+626.Pudina Parantha   53/-
+627.Stuffed Kulcha (Aloo)   65/-
+628.Stuffed Kulcha (Paneer)   65/-
+629.Stuffed Kulcha (Onion)   65/-
+630.Papad   15/-
+*Rice / Pulao / Biryanis / Raitas
+631.Steam Rice   161/-
+632.Soya Dum Biryani   220/-
+633.Veg. Pulao   161/-
+634.Mix Veg. Pulao   161/-
+635.Jeera Pulao   161/-
+636.Matka Biryani With Raita   220/-
+637.Hyderabadi Biryani   220/-
+638.Plain Raita   102/-
+639.Boondi Raita   102/-
+640.Mix. Veg. Raita   102/-
+641.Jeera Raita   102/-
+642.Pineapple Raita   102/-
+*Meal For One (North Indian)
+643.Thali Regular (Only Packing)   196/-
+(Dal Makhani, Seasonal Veg., Bread, Rice & One Dessert.)
+644.Thali Special   280/-
+(Dal Makhani, Seasonal Veg., Shahi Paneer, Bread, Rice, Raita, Papad & One Dessert.)
+645.Roomali Roti with Paneer Tikka Masala   250/-
+646.Rogan Soya Chap with Roomali Roti   250/-
+
+#Dessert
+701.Gulab Jamun   60/-
+702.Halwa (Seasonal)   60/-
+*Sweets
+703.Rava Kesri   72/-
+*Ice Cream
+704.Vanilla/Strawberry   51/-
+705.Tutti Fruti   60/-
+706.Pineapple   60/-
+707.Chocolate   60/-
+708.Butter Scotch   60/-
+709.Kaju Kishmish   60/-
+710.Vanilla Chocochips   60/-
+711.Mango   60/-
+712.Anjeer Honey   60/-
+713.Chocolate Almond Fudge   60/-
+714.Kesar Pista   60/-
+715.Black Currant   60/-
+*Sundaes
+716.Hot Choclate Fudge   165/-
+717.Fruit Salad Sundae   165/-
+*Ice Cream Shakes
+718.Vanilla   128/-
+719.Mango   128/-
+720.Pineapple   128/-
+721.Chocolate / Coffee   128/-
+722.Kesar Pista   128/-
+723.Butter Scotch   128/-

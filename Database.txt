@@ -1,0 +1,16 @@
+Name : Jitendra
+Tabel No : 2
+Contact : 2013645478
+Date and Time : 14/9/2019 (Saturday)  11Hr 46Min 41Sec
+Order :- 
+Description : French Fries/Quantity : 1/Rate : 106/Prize : 106
+Description : Chilli Cheese Toast/Quantity : 1/Rate : 115/Prize : 115
+Total Prize : 221
+
+Name : abc
+Tabel No : 2
+Contact : 1234567892
+Date and Time : 14/9/2019 (Saturday)  11Hr 49Min 34Sec
+Order :- 
+Description : French Fries/Quantity : 1/Rate : 106/Prize : 106
+Total Prize : 106
